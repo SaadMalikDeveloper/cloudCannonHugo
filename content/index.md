@@ -1,5 +1,8 @@
 ---
+layout: home
 title: "Home"
+permalink: /
+
 hero:
   heading: "Matthieu Tran-Van sees 10x productivity boost & 28%revenue surge through Optmyzr"
   subheading: "Google Ads Expert saves 20 account management hours weekly, cuts CPCs, and boosts revenue through automated optimizations"
