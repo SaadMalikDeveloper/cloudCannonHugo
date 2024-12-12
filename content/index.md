@@ -4,7 +4,7 @@ title: "Home"
 permalink: /
 
 hero:
-  heading: "Matthieu Tran-Van sees 10x productivity boost & 28%revenue surge through Optmyzr"
+  heading: "Matthieu productivity boost & 28%revenue surge through Optmyzr"
   subheading: "Google Ads Expert saves 20 account management hours weekly, cuts CPCs, and boosts revenue through automated optimizations"
   cta_text: "Get Started"
   cta_link: "/get-started"
