@@ -1,0 +1,13 @@
+<head>
+  <meta charset="utf-8" />
+  <title>{{ print .Page.Title " | " .Site.Title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  {{ hugo.Generator }} {{ with resources.Get "sass/screen.scss" }} {{ $style :=
+  . | resources.ToCSS }}
+  <link href="/css/main.css" rel="stylesheet" />
+  {{ end }} {{ with "image/favicon.png" }}
+  <link rel="icon" href="{{ . }}" type="image/png" />
+  {{ end }}
+
+  <link rel="icon" type="image/png" href="image/favicon.png" />
+</head>
