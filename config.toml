@@ -1,4 +1,7 @@
-baseURL = "https://gutsy-axe.cloudvent.net/"
+baseURL = ""
 uglyURLs = true
 languageCode = "en-us"
 title = "Hugo Test Template"
+
+[permalinks]
+post = "/:year/:month/:title/"
